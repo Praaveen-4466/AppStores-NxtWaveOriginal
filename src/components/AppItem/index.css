@@ -1,0 +1,16 @@
+.app-item {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: center;
+  list-style-type: none;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 0px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.image {
+  height: 72px;
+  width: 72px;
+}
